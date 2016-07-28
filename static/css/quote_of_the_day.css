@@ -1,0 +1,45 @@
+body {
+  background-image: url("http://b.zol-img.com.cn/desk/bizhi/image/1/1600x900/1348991538884.jpg");
+  backgroung-color: #A9F5D0;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+.web-title {
+  font-family: 'Pacifico', cursive;
+  font-size: 65px;
+  text-align: center;
+  margin-top: 8%;
+  margin-bottom: 8%;
+}
+
+.transparent {
+  background-color: rgba(250, 250, 250, 0.8);  
+}
+
+.jumbo {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.quote-1 {
+  font-family: 'Merriweather', serif;
+  font-size: 35px;
+  text-align: center;    
+}
+
+.nq-btn {
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  text-align: center; 
+  display: table;
+  margin: 0 auto;
+  margin-top: 1%;
+  margin-bottom: 8%;
+}
+
+.copyright {
+  margin-top: 2%;
+  margin-left: 2%;
+  margin-bottom: 2%;
+}
