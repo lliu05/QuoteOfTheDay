@@ -22,4 +22,4 @@ function parseQuote(response)
     $(".quote-1").append('<br>');
     $(".quote-1").append('<br>');
     $(".quote-1").append((response).quoteAuthor);
-};
+}
