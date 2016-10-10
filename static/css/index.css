@@ -21,13 +21,10 @@ body {
   margin-right: 3%;
 }
 
-.quote-content {
-  font-family: 'Merriweather', serif;
-  text-align: center;    
-}
-
 .jumbotron p {
-  font-size: 35px;
+  font-size: 30px;
+  font-family: 'Merriweather', serif;
+  text-align: center; 
 }
 
 .nq-btn {
