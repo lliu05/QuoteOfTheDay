@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $.ajax({
-      url: 'http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1&_jsonp=parseQuote',
+      url: 'https://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1&_jsonp=parseQuote',
       type: 'GET',
       contentType: 'application/json',
       dataType: 'jsonp'
@@ -8,7 +8,7 @@ $(document).ready(function() {
       
   $(".nq-btn").click(function() {
       $.ajax({
-      url: 'http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1&_jsonp=parseQuote',
+      url: 'https://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1&_jsonp=parseQuote',
       type: 'GET',
       contentType: 'application/json',
       dataType: 'jsonp'
